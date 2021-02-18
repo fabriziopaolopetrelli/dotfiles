@@ -1,0 +1,6 @@
+alias update="sudo apt-get update -y && sudo apt-get upgrade -y"
+alias gadd="git add ."
+alias gcommit="git commit -am"
+alias gpush="git push"
+alias cls="clear"
+alias rconfig="source ~/.zshrc"

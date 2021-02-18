@@ -76,9 +76,7 @@ zstyle ':vcs_info:git*+set-message:*' hooks git-untracked
     fi
 }
 
-alias update="sudo apt-get update -y && sudo apt-get upgrade -y"
-alias projects="cd ~/Progetti"
-alias commit="git commit -am"
+source $HOME/.aliases
 
 # Executed before each prompt.
 add-zsh-hook precmd vcs_info
