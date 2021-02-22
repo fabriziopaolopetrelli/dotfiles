@@ -10,13 +10,13 @@ git clone https://github.com/t413/zsh-background-notify.git .zsh-plugins/zsh-bac
 git clone https://github.com/zsh-users/zsh-autosuggestions.git .oh-my-zsh/custom/plugins/zsh-autosuggestions
 
 #linking all the folders in right position
-ln -sv Progetti/dotfiles/.aliases ~
-ln -sv Progetti/dotfiles/.hyper.js ~
-ln -sv Progetti/dotfiles/.hyper_plugins ~
-ln -sv Progetti/dotfiles/.oh-my-zsh ~
-ln -sv Progetti/dotfiles/.themes ~
-ln -sv Progetti/dotfiles/.zsh-plugins ~
-ln -sv Progetti/dotfiles/.zshrc ~
+ln -sv Projects/dotfiles/.aliases ~
+ln -sv Projects/dotfiles/.hyper.js ~
+ln -sv Projects/dotfiles/.hyper_plugins ~
+ln -sv Projects/dotfiles/.oh-my-zsh ~
+ln -sv Projects/dotfiles/.themes ~
+ln -sv Projects/dotfiles/.zsh-plugins ~
+ln -sv Projects/dotfiles/.zshrc ~
 
 #Reloading zshell config
 source ~/.zshrc
