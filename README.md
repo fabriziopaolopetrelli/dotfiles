@@ -85,4 +85,8 @@ I've included also a poor script for symlinking and setting up the repo <br>(Som
   <td>ninst</td>
   <td>Will install the package passed as argument from the node package manager</td>
 </tr>
+<tr>
+  <td>rconfig</td>
+  <td>Will reload the ZShell config</td>
+</tr>
 </table>
