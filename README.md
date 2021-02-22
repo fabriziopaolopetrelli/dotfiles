@@ -1,5 +1,7 @@
 # dotfiles
 
+# The repository works better with hyper terminal installed
+
 Dotfiles for customizing ZShell and Gnome
 
 I've included also a poor script for symlinking and setting up the repo <br>(Some command such as the update of the packages will only work on debian like distros)
