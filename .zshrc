@@ -27,6 +27,7 @@ unsetopt PROMPT_SP
 
 autoload -U add-zsh-hook
 autoload -Uz vcs_info
+autoload -U compinit && compinit
 
 autoload -U compinit
 compinit
@@ -34,7 +35,7 @@ zstyle ':completion:*' matcher-list 'm:{[:lower:]}={[:upper:]}'
 
 plugins=(
     git
-    zsh-syntax-highlighting
+    zsh-completions
     )
 
 # Use True color (24-bit) if available.

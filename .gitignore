@@ -2,3 +2,4 @@
 .hyper_plugins/cache
 .hyper_plugins/local
 .hyper_plugins/package-lock.json
+.zsh-plugins
