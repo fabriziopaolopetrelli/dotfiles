@@ -2,7 +2,9 @@
 
 Dotfiles for customizing ZShell and Gnome
 
-# ZShell
+# ZShell config
 
-<img src>
-# Gnome
+<p>
+<img src='ZShell.png' >
+</p>
+<div>There are also some aliases for git, node and zsh</div>
