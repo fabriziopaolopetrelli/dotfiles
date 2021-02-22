@@ -26,7 +26,7 @@ I've included also a poor script for symlinking and setting up the repo <br>(Som
 
 # Aliases
 
-<table style="width: 600px;">
+<table>
   <tr>
     <td><b>Alias</b></td>
     <td><b>Description</b></td>
