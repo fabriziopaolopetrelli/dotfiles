@@ -18,5 +18,9 @@ ln -sv Projects/dotfiles/.themes ~
 ln -sv Projects/dotfiles/.zsh-plugins ~
 ln -sv Projects/dotfiles/.zshrc ~
 
+#Install all the packages needed in the package.json
+cd .hyper_plugins
+npm install
+
 #Reloading zshell config
 source ~/.zshrc
