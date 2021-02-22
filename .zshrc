@@ -77,7 +77,6 @@ zstyle ':vcs_info:git*+set-message:*' hooks git-untracked
 }
 
 source $HOME/.aliases
-source $HOME/.zsh-plugins/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
 source $HOME/.zsh-plugins/zsh-background-notify/bgnotify.plugin.zsh
 
 # Executed before each prompt.
