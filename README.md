@@ -2,12 +2,27 @@
 
 Dotfiles for customizing ZShell and Gnome
 
+I've included also a poor script for symlinking and setting up the repo <br>(Some command such as the update of the packages will only work on debian like distros)
+
+# Installation
+
+<ol>
+<li>Create a folder wherever you like named 'Projects'</li>
+<li>Clone the repository in that folder</li>
+<ul><li><code>git clone https://github.com/fabriziopaolopetrelli/dotfiles.git dotfiles</code></li></ul>
+<li>Open a terminal from the repository folder</li>
+<li>Make the install script executable</li>
+<ul><li><code>sudo chmod +x init.sh</code></li></ul>
+<li>Run the script and enjoy!</li>
+<ul><li><code>./init.sh</code></li></ul>
+</ol>
+
 # ZShell config
 
 <p>
 <img src='ZShell.png' >
 </p>
-<div>There are also some aliases for git, node and zsh</div>
+<div>There are also some aliases for git, node and zsh</div><br>
 
 # Aliases
 
