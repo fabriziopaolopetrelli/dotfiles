@@ -43,7 +43,7 @@ I've included also a poor script for symlinking and setting up the repo <br>(Som
 </tr>
 <tr>
   <td>sinst</td>
-  <td>Will install the specified package writed after the command <br>(Snap Package manager)</td>
+  <td>Will install the package gived as argument <br>(Snap Package manager)</td>
 </tr>
 <tr>
   <td>gadd</td>
@@ -75,7 +75,7 @@ I've included also a poor script for symlinking and setting up the repo <br>(Som
 </tr>
 <tr>
   <td>gmerge</td>
-  <td>Will merge a branch into another <br>(merges the branch you pass as arguments in the branch you currently are)</td>
+  <td>Will merge a branch into another <br>(merges the branch you pass as argument in the branch you currently are)</td>
 </tr>
 <tr>
   <td>nstart</td>
