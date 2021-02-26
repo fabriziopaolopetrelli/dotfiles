@@ -7,9 +7,9 @@
   "license": "MIT",
   "homepage": "https://hyper.is",
   "dependencies": {
-    "git-falcon9": "latest",
-    "hyper-pane": "latest",
     "hypercwd": "latest",
+    "hyper-pane": "latest",
+    "git-falcon9": "latest",
     "hyperterm-dibdabs": "latest"
   }
 }
