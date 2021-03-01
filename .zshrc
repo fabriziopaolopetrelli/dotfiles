@@ -70,12 +70,24 @@ ZSH_THEME="oxide"
 # Custom plugins may be added to $ZSH_CUSTOM/plugins/
 # Example format: plugins=(rails git textmate ruby lighthouse)
 # Add wisely, as too many plugins slow down shell startup.
-plugins=(git)
+plugins=(
+  git
+  zsh-completions
+  )
 
 source $ZSH/oh-my-zsh.sh
+source $HOME/.aliases
 
-source .aliases
-unsetopt prompt_cr prompt_sp
+#unsetopt prompt_cr prompt_sp
+setopt PROMPT_SUBST
+unsetopt PROMPT_SP
+
+autoload -U add-zsh-hook
+autoload -Uz vcs_info
+autoload -U compinit && compinit
+
+autoload -U compinit
+compinit
 
 # User configuration
 
