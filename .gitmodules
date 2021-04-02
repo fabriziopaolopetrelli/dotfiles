@@ -1,3 +1,12 @@
 [submodule ".oh-my-zsh"]
 	path = .oh-my-zsh
 	url = https://github.com/ohmyzsh/ohmyzsh.git
+[submodule "ohmyzsh"]
+	path = ohmyzsh
+	url = https://github.com/ohmyzsh/ohmyzsh.git
+[submodule "zsh"]
+	path = zsh
+	url = https://github.com/dracula/zsh.git
+[submodule "DraculaZSH"]
+	path = DraculaZSH
+	url = https://github.com/dracula/zsh.git
