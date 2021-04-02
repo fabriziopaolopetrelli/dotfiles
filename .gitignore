@@ -1,6 +1,1 @@
-.hyper_plugins/node_modules
-.hyper_plugins/cache
-.hyper_plugins/local
-.hyper_plugins/package-lock.json
-.zsh-plugins
-.oh-my-zsh/custom/plugins
+ohmyzsh
