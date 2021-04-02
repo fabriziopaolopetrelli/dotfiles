@@ -10,3 +10,15 @@
 [submodule "DraculaZSH"]
 	path = DraculaZSH
 	url = https://github.com/dracula/zsh.git
+[submodule "DraculaGnomeTerminal"]
+	path = DraculaGnomeTerminal
+	url = https://github.com/dracula/gnome-terminal
+[submodule "gtk"]
+	path = gtk
+	url = https://github.com/dracula/gtk.git
+[submodule "DraculaGnome"]
+	path = DraculaGnome
+	url = https://github.com/dracula/gtk.git
+[submodule "https:/github.com/dracula/telegram.git"]
+	path = https:/github.com/dracula/telegram.git
+	url = https://github.com/dracula/mailspring.git
