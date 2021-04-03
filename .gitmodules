@@ -13,3 +13,15 @@
 [submodule "DraculaTelegram"]
 	path = DraculaTelegram
 	url = https://github.com/dracula/telegram.git
+[submodule "DraculaMailspring"]
+	path = DraculaMailspring
+	url = https://github.com/dracula/mailspring.git
+[submodule "DraculaWallpapers"]
+	path = DraculaWallpapers
+	url = https://github.com/dracula/wallpaper.git
+[submodule "gedit"]
+	path = gedit
+	url = https://github.com/dracula/gedit.git
+[submodule "DraculaGedit"]
+	path = DraculaGedit
+	url = https://github.com/dracula/gedit.git
