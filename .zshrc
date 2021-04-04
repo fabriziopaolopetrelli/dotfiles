@@ -15,7 +15,7 @@ ZSH_THEME="dracula"
 DISABLE_UPDATE_PROMPT="true"
 
 # Uncomment the following line to change how often to auto-update (in days).
-export UPDATE_ZSH_DAYS=1
+export UPDATE_ZSH_DAYS=14
 
 # Uncomment the following line to enable command auto-correction.
 ENABLE_CORRECTION="true"
