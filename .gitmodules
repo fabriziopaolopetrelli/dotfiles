@@ -25,3 +25,9 @@
 [submodule "DraculaGedit"]
 	path = DraculaGedit
 	url = https://github.com/dracula/gedit.git
+[submodule "qBittorrentDarktheme"]
+	path = qBittorrentDarktheme
+	url = https://github.com/maboroshin/qBittorrentDarktheme.git
+[submodule "UnofficialDraculaQBittorent"]
+	path = UnofficialDraculaQBittorent
+	url = https://github.com/maboroshin/qBittorrentDarktheme.git
