@@ -34,3 +34,6 @@
 [submodule "QogirIcons"]
 	path = QogirIcons
 	url = https://github.com/vinceliuice/Qogir-icon-theme.git
+[submodule "DraculaJoplin"]
+	path = DraculaJoplin
+	url = https://github.com/dracula/template.git
