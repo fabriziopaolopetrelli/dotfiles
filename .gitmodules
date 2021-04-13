@@ -37,3 +37,6 @@
 [submodule "DraculaJoplin"]
 	path = DraculaJoplin
 	url = https://github.com/dracula/template.git
+[submodule ".oh-my-zsh"]
+	path = .oh-my-zsh
+	url = https://github.com/ohmyzsh/ohmyzsh.git
