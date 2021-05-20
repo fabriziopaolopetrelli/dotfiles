@@ -1,4 +1,4 @@
 alias cls="clear"
 alias rconfig="source ~/.zshrc"
 alias sinst="snap install"
-
+alias logout="gnome-session-quit --no-prompt"
